@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.vaccination-coverage {
+  display: flex;
+  flex-direction: column;
+  background-color: #1c1c2b;
+  width: 100%;
+  padding: 20px;
+  margin-bottom: 20px;
+}
